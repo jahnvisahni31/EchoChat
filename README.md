@@ -2,25 +2,6 @@
 
 ChitChat is a real-time messaging application designed to facilitate dynamic and interactive conversations. Built with a combination of Python, Django, and various frontend technologies, ChitChat aims to provide an intuitive and seamless chat experience.
 
-## Project Structure
-EchoChat/
-├── chattieapp/
-│   ├── __init__.py
-│   ├── admin.py
-│   ├── apps.py
-│   ├── models.py
-│   ├── tests.py
-│   ├── views.py
-│   └── ... 
-├── db.sqlite3
-├── manage.py
-└── ChitChat/
-    ├── __init__.py
-    ├── asgi.py
-    ├── settings.py
-    ├── urls.py
-    └── wsgi.py
-
 ## Features
 
 - **Real-Time Messaging**: Supports instant communication with WebSocket integration.
