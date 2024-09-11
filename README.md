@@ -2,6 +2,13 @@
 
 ChitChat is a real-time messaging application designed to facilitate dynamic and interactive conversations. Built with a combination of Python, Django, and various frontend technologies, ChitChat aims to provide an intuitive and seamless chat experience.
 
+## test case details
+username: jahnvi
+password: Anjali18
+
+username: kartika
+password: Anjali1812
+
 ## Features
 
 - **Real-Time Messaging**: Supports instant communication with WebSocket integration.
